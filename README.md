@@ -6,27 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktajerbashi" alt="ktajerbashi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ktajerbashi" target="blank"><img src="https://img.shields.io/twitter/follow/@ktajerbashi?logo=twitter&style=for-the-badge" alt="@ktajerbashi" /></a> </p>
-
-- 🔭 I’m currently working on [Music Site](https://github.com/KTajerbashi/ASP.NET-MVC-CMS.git](https://github.com/KTajerbashi/MusicSite)
-
-- 🌱 I’m currently learning **ASP.NET**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KTajerbashi](https://github.com/KTajerbashi)
-
-- 💬 Ask me about **C#**
-
-- 📫 How to reach me **kamrantajerbashi@gmail.com**
-
-
-
-
-
 <hr/>
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ktajerbashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ktajerbashi" height="30" width="40" /></a>
