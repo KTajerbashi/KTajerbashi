@@ -1,36 +1,62 @@
-<h1 align="center">Hi 👋, I'm Tajer</h1>
-<h3 align="center">A passionate backend developer from Afghanistan</h3>
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Kamran+Tajerbashi;Tajer;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+ 
+ </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktajerbashi&label=Profile%20views&color=0e75b6&style=flat" alt="ktajerbashi" /> </p>
+### :man_technologist: I'm Kamran Tajerbashi and I'm interested in programming and graphic design
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktajerbashi" alt="ktajerbashi" /></a> </p>
+<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
-<p align="left"> <a href="https://twitter.com/@ktajerbashi" target="blank"><img src="https://img.shields.io/twitter/follow/@ktajerbashi?logo=twitter&style=for-the-badge" alt="@ktajerbashi" /></a> </p>
-<hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ktajerbashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ktajerbashi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kamran-tajerbashi-208b19247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran-tajerbashi-208b19247" height="30" width="40" /></a>
-<a href="https://instagram.com/kamran_tajerbashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamran_tajerbashi" height="30" width="40" /></a>
-<a href="https://medium.com/kamran tajerbashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kamran tajerbashi" height="30" width="40" /></a>
+<br>
+<h2>Social Networks</h2>
+
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+
+[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+
+[1]: https://twitter.com/KTajerbashi
+[2]: https://www.linkedin.com/in/Tajerbashi/
+[3]: https://www.instagram.com/Kamran_Tajerbashi
+[4]: https://telegram.me/@KTajerbashi
+
+
+<br>
+<br>
+
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+
+<br>
+<h2 style="margin-left:20px">Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+  </a>
 </p>
-<hr/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cs,dotnet,firebase,jquery,cpp,java,github,wordpress,ae,ps," />
+  </a>
+</p>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-  <hr/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktajerbashi&show_icons=true&locale=en&layout=compact" alt="ktajerbashi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktajerbashi&show_icons=true&locale=en" alt="ktajerbashi" /></p>
-  <hr/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktajerbashi&" alt="ktajerbashi" /></p>
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
+ 
+ </details>
