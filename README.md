@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ktajerbashi" target="blank"><img src="https://img.shields.io/twitter/follow/@ktajerbashi?logo=twitter&style=for-the-badge" alt="@ktajerbashi" /></a> </p>
 
-- 🔭 I’m currently working on [CMS News Site](https://github.com/KTajerbashi/ASP.NET-MVC-CMS.git)
+- 🔭 I’m currently working on [Music Site](https://github.com/KTajerbashi/ASP.NET-MVC-CMS.git](https://github.com/KTajerbashi/MusicSite)
 
 - 🌱 I’m currently learning **ASP.NET**
 
