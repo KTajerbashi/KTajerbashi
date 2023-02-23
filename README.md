@@ -6,7 +6,7 @@
  
  </div>
 
-### :man_technologist: I'm Kamran Tajerbashi and I'm interested in programming and graphic design
+### :man_technologist: I'm Kamran Tajerbashi and I'm interested in programming and graphic designer
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
