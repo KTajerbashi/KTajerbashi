@@ -1,8 +1,8 @@
 <div align="center" >
  
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=70&lines=Kamran+Tajerbashi;Tajer;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=50&lines=Kamran+Tajerbashi;Tajer;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
  
  </div>
 
@@ -12,7 +12,7 @@
 
 <br>
 
- :::::    :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]    :::::    :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::
+ :::::    :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]    :::::    :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::
 
  [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
