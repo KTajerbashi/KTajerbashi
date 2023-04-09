@@ -8,11 +8,11 @@
 
 ### :man_technologist: I'm Kamran Tajerbashi and I'm interested in programming and graphic designer
 
-<img align='center' height='200' style="margin-right:10px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+<img align='center' height='200' style="margin:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br>
 
- :::::    :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]    :::::    :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::     :::::
+ [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
  [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
