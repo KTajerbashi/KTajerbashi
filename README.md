@@ -2,11 +2,11 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=50&lines=Kamran+Tajerbashi;Tajer;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=100&lines=Kamran+Tajerbashi;Tajer;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
  
  </div>
 
-### :man_technologist: I'm Kamran Tajerbashi and I'm interested in programming and graphic designer
+<h3 align='center'>:man_technologist: I'm Kamran Tajerbashi and I'm interested in programming and graphic designer:man_technologist:</h3>
 
 <img align='center' height='200' style="margin:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
