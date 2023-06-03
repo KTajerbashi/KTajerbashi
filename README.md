@@ -42,6 +42,7 @@
     <h5>Backend Skills</h5>
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,django,mysql," /><br/>
+    <img align="center" src="./sql-server.png" /><br/>
   </a>
 </p>
 <p align="center">
