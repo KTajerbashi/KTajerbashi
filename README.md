@@ -1,6 +1,6 @@
 <div align="center" >
  
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient)
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=100&lines=Kamran+Tajerbashi;Tajer;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
  
@@ -38,13 +38,22 @@
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,angular,react,nodejs,mongodb" />
   </a>
 </p>
+
 <p align="center">
     <h5>Backend Skills</h5>
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,django,mysql," /><br/>
-    <img align="center" src="./sql-server.png" /><br/>
   </a>
 </p>
+
+<p align="center" >
+    <h5>Special Skills</h5>
+  <a href="https://github.com/KTajerbashi">
+    <img align="center" src="./Microsoft_.NET_logo.svg.png" width="150" />
+    <img align="center" src="./sql-server.png" width="150" /><br/>
+  </a>
+</p>
+
 <p align="center">
     <h5>General Skill</h5>
     <a align="center" href="https://skillicons.dev">
