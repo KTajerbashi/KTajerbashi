@@ -2,12 +2,21 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=100&lines=Kamran+Tajerbashi;Tajer;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=100&lines=I'm+Kamran+Tajerbashi;Brand:+++++Tajer;a+Software+Developer;.Net+Core+Developer;Design+Pattern;Domain+Drive+Designing;Clean+Code+Architecture;UI%2FUX+Designer)](https://git.io/typing-svg)
  
  </div>
-
-<h3 align='center'>:man_technologist: I'm Kamran Tajerbashi and I'm interested in programming and graphic designer:man_technologist:</h3>
-
+<h3 align='center'>
+	I'm interested in programming and software engineering
+</h3>
+<hr/>
+<h3 align='center'>:man_technologist:	Hobbies	:man_technologist:</h5>
+<ul>
+	<li>Reading techrelated content</li>
+	<li>Creating personal projects</li>
+	<li>Creating technical content</li>
+	<li>Learning new technologies</li>
+	<li>Learning infrastructures in software architecture</li>
+</ul>
 <img align='center' height='200' style="margin:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br>
@@ -31,18 +40,16 @@
 
 <br>
 <h2 style="margin-left:20px">Skills</h2>
-
 <p align="center">
-    <h5>Frontend Skills</h5>
+    <h5>Languages</h5>
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,angular,react,nodejs,mongodb" />
+    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js" /><br/>
   </a>
 </p>
-
 <p align="center">
-    <h5>Backend Skills</h5>
+    <h5>Technologies</h5>
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,django,mysql," /><br/>
+    <img align="center" src="https://skillicons.dev/icons?i=bootstrap,jquery,react,angular,redux,nodejs,mysql,mongodb,bash" />
   </a>
 </p>
 
@@ -55,9 +62,9 @@
 </p>
 
 <p align="center">
-    <h5>General Skill</h5>
+    <h5>Others</h5>
     <a align="center" href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=git,github,gitlab,ae,ps,au,bash,discord,idea,ai,linux,redux," /><br/>
+      <img align="center" src="https://skillicons.dev/icons?i=git,github,gitlab" /><br/>
     </a>
 </p>
 
